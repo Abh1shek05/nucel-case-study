@@ -62,8 +62,6 @@ flowchart LR
 
 ### Screenshots
 
-The public site includes product illustrations and a sample-library demo. The one official product image directly referenced by the site is the Android save-sheet visual below. Replace or supplement it with approved screenshots from the live product when available.
-
 <p align="center">
   <img src="https://www.nucel.in/product/mobile/light/save.webp" alt="Nucel Android save sheet shown on the product website" width="360" />
 </p>
@@ -74,8 +72,6 @@ The public site includes product illustrations and a sample-library demo. The on
 | `docs/assets/screenshots/library.png` | `docs/assets/screenshots/ask-with-citations.png` |
 | Mind / topic exploration | Mobile app |
 | `docs/assets/screenshots/mind.png` | `docs/assets/screenshots/mobile-library.png` |
-
-> **Screenshot slots:** the paths above are intentional placeholders, not existing product screenshots. Add approved captures using those filenames, or update the paths in this README. See [the media guide](docs/media-and-links.md).
 
 ## My role and contributions
 
